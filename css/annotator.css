@@ -887,10 +887,11 @@
 }
 
 .annotator-heatmap {
-  height: 100%;
-  right: 0;
   top: 0;
-  width: 16px;
-  outline: #bbb solid thin;
+  right: 0;
+  width: 10px;
+  height: 100%;
+  margin: 0;
+  padding: 0;
   position: absolute;
 }
